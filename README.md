@@ -33,3 +33,17 @@ To hear drum sounds:
 - The MIDI player is built with **MetaSounds**, allowing flexible audio manipulation and visualization.
 
 ---
+
+## 📄 Asset Licenses
+
+This project uses 3D assets licensed under **Creative Commons Attribution (CC BY)**. Please credit the original creators if you use or redistribute them:
+
+- 🎹 **Grand Piano** by Amatsukast
+  [https://skfb.ly/6WrRX](https://skfb.ly/6WrRX)
+
+- 🥁 **Drum Kit** by Heataker
+  [https://skfb.ly/owroB](https://skfb.ly/owroB)
+
+License: [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/)
+
+---
